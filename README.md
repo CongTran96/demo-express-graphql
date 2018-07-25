@@ -14,7 +14,7 @@
 
 3. run graphql-ui
 
-go to [localhost:4000/graphql](localhost:4000/graphql)
+go to [localhost:4000/graphql](http://localhost:4000/graphql)
 
 4. test query
 
